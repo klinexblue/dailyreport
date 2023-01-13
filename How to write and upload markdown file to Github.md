@@ -376,7 +376,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 ## Definition List
 
 시대적 배경
-: 문학 작품 등의 컨텐츠에서 특정한 시대를 유추할 수 있는 장치
+: 문학 작품 등의 컨텐츠에서 특정한 시대를 유추할 수 있는 장치.
 
 ## Task List
 
